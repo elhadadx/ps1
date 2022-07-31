@@ -1,6 +1,8 @@
 # ps1
 
-#Invoke-Mimikatz.ps1
-Invoke-Mimikatz   -------> Invoke-Mimi
+PowerShell Obfuscation
 
-DumpCreds ------------->DC 
+power up 
+power view 
+Mimikatz
+
